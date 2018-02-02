@@ -1,0 +1,97 @@
+name,class,50_union,100_union,race,job
+Chirol,Z,Z Hat,Z Armor,Machine,Mage
+Djagos,Z,Staff Gauntlet,SS Staff,Human,Mage
+Elga,Z,S Katana,Doublehand Gauntlet,Golem,Warrior
+Jodie,Z,10% Ice,Jodie Doll,Human,Mage
+Tsutsura,Z,SS Hat,Weapon Mastery Otomo,Human,Mage
+Xena,Z,SS Clothing,Z Bow,Beastfolk,Warrior
+Amizuki,SS,Regen Flute,Katana Gauntlet,Human,Warrior
+Brone,SS,10% Flappy,Sword Gauntlet,Human,Warrior
+Conrandt,SS,Control Time +2,Z Spear,Human,Warrior
+Fyuzal,SS,10% Gravity,Counter Laser,Human,Mage
+Gantt,SS,2% Def,Z Shield,Golem,Warrior
+Haruhikari,SS,Mega Heal,Giga Heal,Human,Healer
+Ipp'oh,SS,5% HP,S Spear,Lizardfolk,Spellblade
+Ken,SS,10% Earth,S Staff,Human,Mage
+Kenton,SS,SS Sword,SS sword,Human,Spellblade
+Koh,SS,SS Armor,SS Spear,Human,Spellblade
+Leon,SS,2% Ice,SS Dagger,Human,Spellblade
+Melba,SS,SS Spear,20% Frequency,Human,Spellblade
+Ohryu,SS,Power Pot,Body Double Magic,Human,Spellblade
+Po'lar,SS,Status Heal,Nego.,Lizardfolk,Healer
+R'un,SS,10% Fire,SS Dagger,Lizardfolk,Mage
+Revol,SS,10% Photon,S Staff,Machine,Mage
+Roland,SS,SS Bow,Z Dagger,Human,Spellblade
+Samatha,SS,A Spear,10% Attack,Human,Spellblade
+Tomahawk,SS,EXP Wing,Spear Gauntlet,Monster,Warrior
+Zumba,SS,Control Time +4,Control Time[F] +10,Fairy,Spellblade
+Ahryu,S,2% Def,SS Helm,Monster,Warrior
+Bali,S,MP 10,MP 50,Beastfolk,Spellblade
+Bulk,S,10% Photon Resist,Armor Gauntlet,Human,Mage
+Chacha,S,Weapon Mastery,S Sword,Human,Warrior
+Chizuru,S,Double Body,SS Katana,Human,Warrior
+Eliz'beth,S,50% Squeaky,Regen Flute,Lizardfolk,Healer
+Enaveldt,S,Treasure Hunter 30%,Staff Gauntlet,Beastfolk,Warrior
+Hime'nald,S,10 M Def,10% Def,Lizardfolk,Mage
+Ji'row,S,10% Earth Resist,10% Fire Resist,Lizardfolk,Spellblade
+Louisharant,S,10% Def,S Spear,Human,Warrior
+Pal'pal,S,2% Fire,Capsule Consumer,Lizardfolk,Spellblade
+Shalu'lulu,S,2% Magic,SS Clothing,Human,Healer
+Shean,S,2% M Def,Power Pot,Animal,Spellblade
+Shen,S,2% M Def,Weapon Mastery,Golem,Spellblade
+Uhse,S,10% Lightning Resist,10 M Attack,Human,Mage
+Unryu,S,2% Def,Z Armor,Monster,Warrior
+Zomberger,S,2 M Def,EXP Wing,Fairy,Spellblade
+Battle-R,A,5 M Attack,10 Magic Attack,Machine,Spellblade
+Bibi'lamia,A,Gather Drum,10% Fire Resist,Machine,Mage
+Billie,A,2% M Def,10% M Def,Monster,Spellblade
+Bur'nard,A,2 Attack,Body Double,Lizardfolk,Spellblade
+Cid,A,10% Lightning Resist,Control Time[F] +2,Fairy,Mage
+Coyik,A,5 Attack,10 Def,Human,Warrior
+Dorys,A,5 Attack,5 M Attack,Golem,Spellblade
+Ehzu,A,2% Def,10% Def,Golem,Warrior
+Goku,A,10% Impy,50% Impy,Golem,Warrior
+Gun'ford,A,Counter Missile,Power Pot,Lizardfolk,Spellblade
+Jeanne,A,20% Rocky,50% Rocky,Human,Spellblade
+Johnny,A,2% Fire,Bow Gauntlet,Human,Spellblade
+Joogo,A,5% HP,Resist Status,Animal,Healer
+Juzeiana,A,5 Attack,Power Pot,Human,Warrior
+Kwantas,A,5 Attack,50% Sally,Human,Warrior
+Macrant,A,Outflank,Duel Wield,Human,Warrior
+Mukumba,A,EXP Wing,Counter Missile,Animal,Mage
+Oppul,A,5 M Attack,5 M Def,Monster,Mage
+Surge-L,A,Control Time +1,Levitation Self,Machine,Spellblade
+Turttra,A,2% Def,Resist Status,Animal,Healer
+Uz,A,50% Sneaky,50% Flappy,Human,Warrior
+Vohgless,A,5 M Attack,10% Ice Resist,Human,Mage
+Bockle,B,Bomb Defuser,Power Pot,Human,Spellblade
+Canous,B,2% Wind ,10% Lightning Resist,Monster,Spellblade
+Chaim,B,10% Oinky,20% Oinky,Golem,Warrior
+Dohn'sohn,B,10% Charmy,10% Flappy,Lizardfolk,Spellblade
+Fofoe,B,10 HP,10% HP,Golem,Warrior
+Hawke,B,2 Attack,EXP Wing,Animal,Warrior
+Hermes,B,Control Time[F] +2,Body Double,Human,Healer
+Isamu,B,2 M Def,5 M Attack,Human,Spellblade
+Jip'pl,B,2 Def,5 Def,Lizardfolk,Mage
+Ka'prese,B,2 Attack,5 Attack,Lizardfolk,Mage
+Karyn,B,2% Lightning Resist,2% Lightning,Human,Mage
+Kheim,B,10% Squeaky,20% Squeaky,Golem,Warrior
+Koa,B,10 HP,50 HP,Animal,Mage
+Kul'nero,B,2% Photon Resist,10% Photon Resist,Lizardfolk,Mage
+Kutah'von,B,Power Supplement,Capsule Consumer,Lizardfolk,Healer
+Lyon,B,2% Attack,10% Attack,Animal,Warrior
+Norah,B,2% Def,5 Def,Animal,Warrior
+Pengu,B,10 MP,50 MP,Animal,Mage
+Poly'melas,B,2% Fire Resist,2% Earth Resist,Lizardfolk,Mage
+Pu'ray,B,2% Attack,Bow Gauntlet,Lizardfolk,Warrior
+Roxana,B,10% Hiso,20% Hiso,Human,Spellblade
+Saeba,B,2 Def,1000 Needles,Golem,Warrior
+Scarlett,B,2 M Def,5 M Def,Fairy,Mage
+Shaqurino,B,5 Attack,10 Attack,Human,Spellblade
+Skipp,B,2% Attack,Treasure Hunter (30%),Animal,Mage
+Tedda,B,2% Fire,5 Attack,Golem,Spellblade
+Torl'marl,B,2 M Attack,5 M Attack,Lizardfolk,Mage
+Ukai,B,2% Wind,50% Squeaky,Golem,Spellblade
+Wah'gwas,B,100 Needles,Outflank,Lizardfolk,Spellblade
+Yuriyuri,B,10 HP,Leviatation Self,Machine,Spellblade
+Zweimal,B,10% Scampy,50% Scampy,Fairy,Spellblade

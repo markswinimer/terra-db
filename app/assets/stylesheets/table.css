@@ -1,0 +1,86 @@
+
+.table-artwork-profile {
+ border-right: .5px solid #ECEEEF;
+ border-left: .5px solid #ECEEEF;
+ border-bottom: 1px solid #ECEEEF;
+ padding: 5px;
+}
+
+.table-bordered {
+ position: absolute;
+ font-family: "Istok Web", sans-serif;
+ border-right: 1px solid #ECEEEF;
+ border-left: 1px solid #ECEEEF;
+ color: #56595C;
+}
+
+.table-head {
+ font-weight: bold;
+ background-color: #ECEEEF;
+ text-align: left;
+ padding-left: 3px;
+}
+
+.guardianTable{
+ vertical-align: top;
+ text-align: left;
+ border-right: .5px solid #ECEEEF;
+ border-left: .5px solid #ECEEEF;
+ border-bottom: 1px solid #ECEEEF;
+ color: #56595C;
+ padding-left: 5px;
+ padding-right: 5px;
+}
+.guardianTable.artwork{
+  padding-top: 2px;
+  padding-bottom: 2px;
+  width: 25px;
+  color: red;
+}
+.guardianTable.gClass{
+  width: 25px;
+  color: red;
+}
+.guardianTable.race{
+  min-width: 90px;
+}
+.guardianTable.name{
+  min-width: 120px;
+}
+.guardianTable.job{
+  min-width: 90px;
+}
+.guardianTable.unionA{
+  min-width: 200px;
+  text-align: left;
+}
+.guardianTable.unionB{
+  min-width: 200px;
+  text-align: left;
+
+}
+
+.table-element {
+ vertical-align: top;
+ border-right: .5px solid #ECEEEF;
+ border-left: .5px solid #ECEEEF;
+ border-bottom: 1px solid #ECEEEF;
+ color: #56595C;
+ text-align: left;
+ padding-left: 5px;
+}
+.innerContainer {
+ color: black;
+ height: 100vh;
+ background-color: white;
+}
+
+img {
+  vertical-align: middle;
+  max-width: 20px;
+  max-height: 20px;
+  height: 50px;
+  border-radius: 7%;
+  border: .5px solid silver;
+  display: inline-block;
+}
